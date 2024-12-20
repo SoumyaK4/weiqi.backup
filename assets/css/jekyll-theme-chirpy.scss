@@ -10,9 +10,9 @@
 /* append your custom style below */
 
 // make sure hashtag isnt shown when hovering on headings 
-// .fa-hashtag:before {
-//     content: none !important;
-// }
+.fa-hashtag:before {
+    content: none !important;
+}
 
 
 // sidebar mobile icon change on menu open 
@@ -21,4 +21,19 @@ body[sidebar-display] {
   .fa-navicon:before {
     content: '\2715';
   }
+}
+
+a.journey {
+  display: inline-block; 
+  background-color: #0f872b; 
+  color: white; 
+  padding: 10px 20px; 
+  border-radius: 15px; 
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+a.journey:hover {
+  background-color: #0d6b24; /* Darker shade on hover */
+  transform: scale(1.05); /* Slightly enlarge the button */
+  font-weight: bold;
 }

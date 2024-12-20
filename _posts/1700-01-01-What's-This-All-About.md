@@ -133,7 +133,9 @@ prior to battle, and the battles themselves are structured like a game of Go.
 ## Excited to Learn?
 <hr>
 
-<a class="btn btn-success btn-lg" style="bg-color: #1a8754" href="/posts/How-to-use-Roadmap/">Start Your Journey</a>
+<!-- <a class="btn btn-success btn-lg" href="/posts/How-to-use-Roadmap/">Start Your Journey</a> -->
+
+<a class="journey" href="/posts/How-to-use-Roadmap/">Start Your Journey</a>
 
 ## Want to Teach Your Kids?
 <hr>
