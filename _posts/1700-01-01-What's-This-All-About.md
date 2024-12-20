@@ -1,7 +1,6 @@
 ---
 title: What's All This Fuss About
 description: The Surrounding Game? The Game of Go (Igo/Baduk/Weiqi)?
-author: SoumyaK4
 categories: [The Game's Overview]
 tags: [baduk roadmap, weiqi roadmap, learn to play go, go game tutorial, the surrounding game]
 pin: true

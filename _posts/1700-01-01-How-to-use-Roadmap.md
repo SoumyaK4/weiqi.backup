@@ -1,7 +1,6 @@
 ---
 title: How to Use the Weiqi Roadmap?
 description: A guide on using this Website to Upskill your Surrounding Game 
-author: SoumyaK4
 categories: [The Guide for Roadmap]
 tags: [baduk roadmap, weiqi roadmap, learn to play go, go game tutorial, the surrounding game]
 pin: true
