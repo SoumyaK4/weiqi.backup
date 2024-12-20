@@ -1,6 +1,6 @@
 ---
-title: Weiqi Online Resources
-description: Weiqi Online Resources
+title: Weiqi / Baduk Online Resources 2025
+description: A list of free online resources for the Game of Go / Baduk / Weiqi
 pin: true
 categories: [The Online Resources]
 tags: [resources, software, server, community]
@@ -147,9 +147,10 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 3. <a href="https://www.murugandi.com/" target="_blank">Murugandi</a>
 4. <a href="https://www.instagram.com/hugo.maussion/" target="_blank">Hugo Maussion</a>
 5. <a href="https://kalyptane.blogspot.com/" target="_blank">Kalyptane</a>
-6. <a href="https://www.facebook.com/kat.artichoke" target="_blank">Kat Artichoke</a>
-7. <a href="https://www.facebook.com/OferZivonyFaces" target="_blank">Ofer Zivony</a>
-8. <a href="https://www.instagram.com/sho_ishinoshita/" target="_blank">Sho Ishinoshita</a>
+6. <a href="https://almostsente.tumblr.com/" target="_blank">Go Comic : Almost Sente</a>
+7. <a href="https://www.facebook.com/kat.artichoke" target="_blank">Kat Artichoke</a>
+8. <a href="https://www.facebook.com/OferZivonyFaces" target="_blank">Ofer Zivony</a>
+9. <a href="https://www.instagram.com/sho_ishinoshita/" target="_blank">Sho Ishinoshita</a>
 
 > Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank">Resources Page by Online-Go.com</a>
 {: .prompt-tip}
