@@ -1,0 +1,24 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+// make sure hashtag isnt shown when hovering on headings 
+// .fa-hashtag:before {
+//     content: none !important;
+// }
+
+
+// sidebar mobile icon change on menu open 
+body[sidebar-display] {
+  .fa-bars:before,
+  .fa-navicon:before {
+    content: '\2715';
+  }
+}
