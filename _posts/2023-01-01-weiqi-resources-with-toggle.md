@@ -5,12 +5,15 @@ pin: true
 categories: [The Online Resources]
 tags: [resources, software, server, community]
 date: 2023-01-01 00:00:00 +0530
+published: false
 ---
 
-> This page is **Work in Progress** and will be split into multiple pages soon....
-{: .prompt-tip}
+<!-- > This page is **Work in Progress** and will be split into multiple pages soon....
+{: .prompt-tip} -->
 
-## YouTube & Twitch Channels
+<details>
+<summary><h2 style="display: inline;">YouTube & Twitch Channels</h2></summary>
+<div markdown="1"><br>
 
 1. Clossius <a href="https://www.youtube.com/user/clossius" target="_blank">YouTube</a> & <a href="https://www.twitch.tv/clossius" target="_blank">Twitch</a> - Shawn Ray 4Dan's Lectures
 2. <a href="https://www.youtube.com/@simplebaduk/" target="_blank">Simple Baduk</a> - Simple Lectures
@@ -51,7 +54,12 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 33. <a href="https://youtube.com/@starpointbaduk" target="_blank">Star Point Baduk</a>
 34. <a href="https://www.youtube.com/@gowithfanaro" target="_blank">Go with Philippe Fanaro</a>
 
-## AI & Tools
+</div>
+</details>
+<br>
+<details>
+<summary><h2 style="display: inline;">AI & Tools</h2></summary>
+<div markdown="1"><br>
 
 1. <a href="https://online-go.com/learn-to-play-go" target="_blank">OGS Tools</a> - A bunch of tools inside OGS
 2. <a href="https://ai-sensei.com/" target="_blank">AI Sensei</a> – Review your games with AI according to your level
@@ -82,7 +90,12 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 27. <a href="https://www.crazy-sensei.com/?lang=en&location=kifu_snap" target="_blank">Kifu Snap</a>
 28. <a href="https://play.google.com/store/apps/details?id=net.kir.baduk_ai" target="_blank">Baduk AI Android</a>
 
-## Tsumegos
+</div>
+</details>
+<br>
+<details>
+<summary><h2 style="display: inline;">Tsumegos</h2></summary>
+<div markdown="1"><br>
 
 1. <a href="https://tsumego-hero.com/" target="_blank">Tsumego Hero</a>
 2. <a href="https://gomagic.org/go-problems/" target="_blank">GoMagic Skill Tree</a>
@@ -100,7 +113,12 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 14. <a href="https://neuralnetgoproblems.com/" target="_blank">Neural-Net GO Problems</a>
 15. <a href="https://mygowiki.tiddlyspot.com/" target="_blank">My Go Wiki</a>
 
-## DataBases
+</div>
+</details>
+<br>
+<details>
+<summary><h2 style="display: inline;">DataBases</h2></summary>
+<div markdown="1"><br>
 
 1. <a href="https://online-go.com/joseki" target="_blank">OGS Joseki</a>
 2. <a href="https://www.josekipedia.com/" target="_blank">Josekipedia</a>
@@ -123,8 +141,12 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 <!-- 19. <a href="https://www.dropbox.com/scl/fo/55n3y0yblmad9kruj8gk0/ALJB9LS9AaG3_TBhdubljWk?rlkey=tpncnsc8zh285fsjlhshauvgj&st=x0swakor&dl=0" target="_blank">Collection of Books 1</a>
 20. <a href="https://drive.google.com/drive/folders/1hjD17M3D2JHLQv3Cd_-Pga8M7K2AN0Jg?usp=sharing" target="_blank">Collection of Books 2</a> -->
 
-
-## Where to Play
+</div>
+</details>
+<br>
+<details>
+<summary><h2 style="display: inline;">Where to Play</h2></summary>
+<div markdown="1"><br>
 
 1. <a href="https://online-go.com/" target="_blank">OGS</a>
 2. <a href="https://www.foxwq.com/" target="_blank">Fox Weiqi</a> - Available for <a href="https://openfoxwq.github.io/" target="_blank"> Mac, Windows, Linux</a>. No Web Version, and Android one only available in Chinese Language.
@@ -139,7 +161,12 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 10. <a href="https://go.kahv.io/" target="_blank">Go Variant Server(Outdated)</a>
 11. <a href="https://baduk.club/map/" target="_blank">Offline</a>
 
-## Art Stuff
+</div>
+</details>
+<br>
+<details>
+<summary><h2 style="display: inline;">Art Stuff</h2></summary>
+<div markdown="1"><br>
 
 1. <a href="https://camille-leveque.com/" target="_blank">Stoned on the Goban <3</a>
 2. <a href="https://emptytriangle.com" target="_blank">Go Comic : Empty Triangle</a>
@@ -150,6 +177,10 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 7. <a href="https://www.facebook.com/kat.artichoke" target="_blank">Kat Artichoke</a>
 8. <a href="https://www.facebook.com/OferZivonyFaces" target="_blank">Ofer Zivony</a>
 9. <a href="https://www.instagram.com/sho_ishinoshita/" target="_blank">Sho Ishinoshita</a>
+
+</div>
+</details>
+<br>
 
 > Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank">Resources Page by Online-Go.com</a>
 {: .prompt-tip}
