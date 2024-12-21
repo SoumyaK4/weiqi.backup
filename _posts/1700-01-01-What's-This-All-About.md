@@ -20,12 +20,12 @@ The game from its forgotten origins in China, spread first to the rest of East A
 human professional players used to be considered unbeatable by computers because they played on intuition, which
 computers just couldn’t do until in 2016, when Google's DeepMind created AlphaGo._
 
-How ancient? Historians aren't sure; it has a definite <a href="https://senseis.xmp.net/?HistoryOfGo" target="_blank">
+How ancient? Historians aren't sure; it has a definite <a href="https://senseis.xmp.net/?HistoryOfGo" target="_blank" rel="nofollow noopener noreferrer">
   history</a> of over 3000 years, but according to tradition Go was invented more than 4000 years ago and is believed to
 be the oldest board game continuously played to the present day without fundamental changes to the main rules/concepts.
-> Also check this <a href="https://youtu.be/EN10EHNdJjQ?si=ZKZ2nakaR8rE7urO" target="_blank">short history video</a> by
+> Also check this <a href="https://youtu.be/EN10EHNdJjQ?si=ZKZ2nakaR8rE7urO" target="_blank" rel="nofollow noopener noreferrer">short history video</a> by
 GoMagic.
-> - Here's their article <a href="https://gomagic.org/history-of-go/" target="_blank"> on the same topic.</a>
+> - Here's their article <a href="https://gomagic.org/history-of-go/" target="_blank" rel="nofollow noopener noreferrer"> on the same topic.</a>
 
 > Many Names for the Game: <br>
 The English name comes from the Japanese name Igo, which means "Surrounding Board Game".
@@ -45,7 +45,7 @@ than the number of atoms in the observable universe.
 ## Benefits of Playing?
 <hr>
 
-<a href="https://youtu.be/wQuh9YI8rn0?si=IyLDYDlPhlmGkz2v" target="_blank">How the ancient game of Go is a guide to
+<a href="https://youtu.be/wQuh9YI8rn0?si=IyLDYDlPhlmGkz2v" target="_blank" rel="nofollow noopener noreferrer">How the ancient game of Go is a guide to
   modern life</a> Ted Talk by Silvia Lozeva
 
 Playing Go boosts your memory and helps you focus better, and it also makes you a great problem solver. <br>
@@ -56,7 +56,7 @@ Here's some great related articles/videos from the internet:
 Articles Related to Self Developement & Psychology
 - Check the "Proof" in their <a href='https://gomagic.org/go-game/' target='_blank'> Left And Right Brain Unite to Play
   Go </a> Section
-- <a href="https://gopsychology.uk/" target="_blank"> GoPsychology</a>
+- <a href="https://gopsychology.uk/" target="_blank" rel="nofollow noopener noreferrer"> GoPsychology</a>
 - **Coming from Chess?** Check this article on Go Magic: <a href='https://gomagic.org/chess-go/' target='_blank'> Chess
   vs GO </a>
 - <a href='https://weiqi-to-go.net/benefits-of-weiqi/' target='_blank'> Weiqi-to-Go.net </a>
@@ -95,40 +95,40 @@ AlphaGo vs Lee Sedol Event.
 
 
 - Similarly, Go has been used as an element or plot device in film/series, such as:
-- <a href="https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film)" target="_blank">A Beautiful Mind</a>,
-- <a href="https://en.wikipedia.org/wiki/Tron:_Legacy" target="_blank">Tron: Legacy</a>,
-- <a href="https://en.wikipedia.org/wiki/The_Glory_(TV_series)" target="_blank">The Glory (TV Series)</a>,
-- <a href="https://en.wikipedia.org/wiki/Knives_Out" target="_blank">Knives Out</a>,
-- <a href="https://www.youtube.com/playlist?list=PLIPiKkS-FpK-AgFy-U8nHgQJfEMvPnn3T" target="_blank">Go Into Your
+- <a href="https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film)" target="_blank" rel="nofollow noopener noreferrer">A Beautiful Mind</a>,
+- <a href="https://en.wikipedia.org/wiki/Tron:_Legacy" target="_blank" rel="nofollow noopener noreferrer">Tron: Legacy</a>,
+- <a href="https://en.wikipedia.org/wiki/The_Glory_(TV_series)" target="_blank" rel="nofollow noopener noreferrer">The Glory (TV Series)</a>,
+- <a href="https://en.wikipedia.org/wiki/Knives_Out" target="_blank" rel="nofollow noopener noreferrer">Knives Out</a>,
+- <a href="https://www.youtube.com/playlist?list=PLIPiKkS-FpK-AgFy-U8nHgQJfEMvPnn3T" target="_blank" rel="nofollow noopener noreferrer">Go Into Your
   Heart</a>, a romance Chinese Drama where the main male lead is a Go Genius.
-- <a href="https://en.wikipedia.org/wiki/The_Divine_Move" target="_blank">The Divine Move 1 & 2</a>,
-- <a href="https://en.wikipedia.org/wiki/The_Go_Master" target="_blank">The Go Master</a>, a biopic of Go professional
+- <a href="https://en.wikipedia.org/wiki/The_Divine_Move" target="_blank" rel="nofollow noopener noreferrer">The Divine Move 1 & 2</a>,
+- <a href="https://en.wikipedia.org/wiki/The_Go_Master" target="_blank" rel="nofollow noopener noreferrer">The Go Master</a>, a biopic of Go professional
 Go Seigen.
-- <a href="https://surroundinggamemovie.com/" target="_blank">The Surrounding Game Documentary</a>,
+- <a href="https://surroundinggamemovie.com/" target="_blank" rel="nofollow noopener noreferrer">The Surrounding Game Documentary</a>,
 - In King Hu's wuxia film The Valiant Ones, the characters are color-coded as Go stones (black or other dark shades for
 the Chinese, white for the Japanese invaders), Go boards and stones are used by the characters to keep track of soldiers
 prior to battle, and the battles themselves are structured like a game of Go.
 - I've also seen Weiqi/Baduk References in a lot of Manhuas/Manhwas I've read.
 - Here's some complete lists:
-- On <a href="https://senseis.xmp.net" target="_blank">Senseis</a> site: <a href="https://senseis.xmp.net/?Movies"
-  target="_blank">Movies</a>, <a href="https://senseis.xmp.net/?Television" target="_blank">TV Shows</a>, <a
-  href="https://senseis.xmp.net/?AnimeAndGraphicArts" target="_blank">Animation & Comics</a>
-- On <a href="https://www.britgo.org/" target="_blank">BritGo</a>'s Site: <a href="https://www.britgo.org/filmography"
-  target="_blank">Filmography</a>, <a href="https://www.britgo.org/general/manga" target="_blank">Manga/Anime</a>,
-<a href="https://www.britgo.org/general/novels.html" target="_blank">Novels</a>
-- List of Movies on <a href="https://gomagic.org/go-movies/" target="_blank">Go Magic.</a>
+- On <a href="https://senseis.xmp.net" target="_blank" rel="nofollow noopener noreferrer">Senseis</a> site: <a href="https://senseis.xmp.net/?Movies"
+  target="_blank" rel="nofollow noopener noreferrer">Movies</a>, <a href="https://senseis.xmp.net/?Television" target="_blank" rel="nofollow noopener noreferrer">TV Shows</a>, <a
+  href="https://senseis.xmp.net/?AnimeAndGraphicArts" target="_blank" rel="nofollow noopener noreferrer">Animation & Comics</a>
+- On <a href="https://www.britgo.org/" target="_blank" rel="nofollow noopener noreferrer">BritGo</a>'s Site: <a href="https://www.britgo.org/filmography"
+  target="_blank" rel="nofollow noopener noreferrer">Filmography</a>, <a href="https://www.britgo.org/general/manga" target="_blank" rel="nofollow noopener noreferrer">Manga/Anime</a>,
+<a href="https://www.britgo.org/general/novels.html" target="_blank" rel="nofollow noopener noreferrer">Novels</a>
+- List of Movies on <a href="https://gomagic.org/go-movies/" target="_blank" rel="nofollow noopener noreferrer">Go Magic.</a>
 
 > You might know a bunch amongst these <a href="https://www.britgo.org/general/celeb/index.html"
-  target="_blank">Celebrity Players!!!</a>
+  target="_blank" rel="nofollow noopener noreferrer">Celebrity Players!!!</a>
 {: .prompt-tip}
 
 ## Wiki?
 <hr>
 
-- Special Wiki for the Game : <a href="https://senseis.xmp.net/?StartingPoints" target="_blank"> Sensei’s Library </a>
+- Special Wiki for the Game : <a href="https://senseis.xmp.net/?StartingPoints" target="_blank" rel="nofollow noopener noreferrer"> Sensei’s Library </a>
 - Weirdly Wikipedia has 2 pages:
-- <a href="https://en.wikipedia.org/wiki/Go_(game)" target="_blank"> Page 1 </a>
-- <a href="https://simple.wikipedia.org/wiki/Go_(board_game)" target="_blank"> Page 2 </a>
+- <a href="https://en.wikipedia.org/wiki/Go_(game)" target="_blank" rel="nofollow noopener noreferrer"> Page 1 </a>
+- <a href="https://simple.wikipedia.org/wiki/Go_(board_game)" target="_blank" rel="nofollow noopener noreferrer"> Page 2 </a>
 
 ## Excited to Learn?
 <hr>
@@ -141,4 +141,4 @@ prior to battle, and the battles themselves are structured like a game of Go.
 <hr>
 
 Here's a fun beginning point for kids
-- Check <a href="https://github.com/sorianom/kids-go-books" target="_blank"> My First Book of Go Exercises </a> by Leandro Soriano Marcolino
+- Check <a href="https://github.com/sorianom/kids-go-books" target="_blank" rel="nofollow noopener noreferrer"> My First Book of Go Exercises </a> by Leandro Soriano Marcolino
