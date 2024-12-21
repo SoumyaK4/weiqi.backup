@@ -57,3 +57,5 @@ date: 1700-01-02 00:00:00 +0530
 
 > P. S. This Roadmap is only my POV. <a href='https://t.me/SoumyaK4/' target="_blank">Contact Me</a> for suggessions or if you find any broken links please.
 {: .prompt-danger}
+
+<script src="/assets/js/pwa-install.js" defer></script>
