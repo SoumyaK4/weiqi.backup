@@ -1,6 +1,6 @@
 ---
 title: How to Use the Weiqi Roadmap?
-description: A guide on using this Website to Upskill your Surrounding Game 
+description: A comprehensive guide to navigating this website and mastering the game of Go.
 categories: [The Guide for Roadmap]
 tags: [baduk roadmap, weiqi roadmap, learn to play go, go game tutorial, the surrounding game]
 pin: true
@@ -13,49 +13,59 @@ date: 1700-01-02 00:00:00 +0530
 
 <div style="text-align: center">
   <div style="font-size: 36px">
-    Hello, I'm <a href="https://soumyak4.in/Experiences" style="color: #FF5733;"> Soumya</a> <br>
+    Welcome, I'm <a href="https://soumyak4.in/Experiences" style="color: #FF5733;"> Soumya</a> <br>
   </div>
   <u style="font-size: 18px; color: #FF5733;">
-    A Student / Teacher from Kolkata, India 
+    A Student & Teacher from Kolkata, India 
   </u>
 </div>
 <hr>
 <h5 style="text-align: center">
-    I've created This Roadmap in 2021 from my experience of becoming an Intermediate Level Player, <br>
-    With Just 1 Year of Self Studies, using online free resources.<br />
-    I hope this helps you on Your Journey as well. <br>
-    <b>Good Luck, Have Fun!!</b>
+I created this Roadmap back in 2021, drawing from my journey of becoming a Dan Level Go Player. <br>
+With just one year of self-study and free online resources, I achieved this milestone. <br>
+This roadmap is here to guide you on your own journey. <br>
+<b>And as we always say before starting our games, Good Luck, Have Fun!!</b>
 </h5>  
 <hr>
-## Using the [Roadmap](/roadmap) directly
+## Using the [Roadmap](/roadmap) directly.
 <hr>
 
-> <u>THIS WILL BE YOUR MAIN GUIDE/ROADMAP. <br> Everything else I've mentioned below are just some extra tools to help.</u>
+> <u>Your Primary Guide to Mastery</u>
 > 
-> **This is a Timeline that has a list of things you should learn step by step over a period of time.**
->
-**Start at the top and as your rank increases, slowly move down <br>to find more relevant things to learn/do.**
-{: .prompt-tip}
-
-## Using the [Categories](/categories)
-<hr>
-
-> **The Categories section has a list of things put into seperate topics. Its more like a Menu**
+> **This is a step-by-step timeline designed to help you progress over time.**
 > 
-> Here you can find the: <br>
-> [DDK Menu](/categories/ddk-menu), [SDK Menu](/categories/sdk-menu), [Resources List](/categories/the-online-resources), etc.
-{: .prompt-tip}
+> **Start from the top and gradually move down as your rank improves to discover more advanced resources.**
+{: .prompt-tip} 
 
-## Using the [Tags](/tags)
+This roadmap is the core of your learning journey. Everything else on the site, as detailed below, is designed to complement it.
+
+## Exploring [Categories](/categories)
 <hr>
 
-> **Tags are just like #tags that you see on Social Media.** <br>
-> You can also click on the search button in mobile to look for tags.
+> **Think of Categories as your structured menu of topics.**
+> 
+> In this section, you’ll find key topics like: <br>
+> - [DDK Menu](/categories/ddk-menu) 
+> - [SDK Menu](/categories/sdk-menu) 
+> - [Resources List](/categories/the-online-resources), etc.
+{: .prompt-tip}
+
+If you prefer exploring by topic or focusing on specific areas of improvement, this section is perfect for you.
+
+## Utilizing [Tags](/tags)
+<hr>
+
+**Tags function just like hashtags on social media.**<br>
+> They allow you to quickly filter and locate content by topic or keyword.
+> Use the search feature for even easier navigation.
 {: .prompt-tip}
 
 <hr>
 
-> P. S. This Roadmap is only my POV. <a href='https://t.me/SoumyaK4/' target="_blank">Contact Me</a> for suggessions or if you find any broken links please.
+> P. S. This roadmap mostly reflects my personal perspective and experience. 
+> If you have suggestions or spot any broken links, feel free to <a href='https://t.me/SoumyaK4/' target="_blank">reach out to me.</a>
 {: .prompt-danger}
+
+<hr>
 
 <script src="/assets/js/pwa-install.js" defer></script>
