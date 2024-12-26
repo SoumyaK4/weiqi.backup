@@ -11,7 +11,8 @@ image:
 ---
 
 ## What Is the Game of Go?
-<hr>
+
+---
 
 Go is an ancient abstract strategy board game for two players, celebrated for its simplicity and depth. From its almost forgotten origins in China, it journeyed across East Asia before capturing the imagination of players worldwide.
 
@@ -26,14 +27,14 @@ Go’s history</a> stretches over 3,000 years. However, traditional accounts sug
 - Learn more about its origins in this <a href="https://youtu.be/EN10EHNdJjQ?si=ZKZ2nakaR8rE7urO" target="_blank" rel="nofollow noopener noreferrer">short history video</a> by GoMagic.
 - Also explore their <a href="https://gomagic.org/history-of-go/" target="_blank" rel="nofollow noopener noreferrer"> in-depth article on Go's history</a>
 
-### Many Names, One Game
+### Many Names, One Game.
 
 Go’s name varies across cultures, mainly:
 - **Igo** in Japanese (“surrounding board game”)
 - **Baduk** in Korean
 - **Weiqi** in Chinese (pronounced "Wei-Chi")
 
-### Gameplay in a Nutshell
+### Gameplay in a Nutshell.
 
 Go is about territory. Players use strategies like capture, isolation, and control to dominate the board. While abstract at heart, the game has been interpreted as a metaphor for war, frontier settlement, market domination, and even prophecy.
 
@@ -41,7 +42,8 @@ Go is about territory. Players use strategies like capture, isolation, and contr
 {: .prompt-info}
 
 ## Why Play Go?
-<hr>
+
+---
 
 Go isn’t just a game — it’s a mental workout. Playing Go improves memory, focus, problem-solving, emotional resilience, and cognitive flexibility. It’s a timeless tool for sharpening the mind.
 
@@ -66,7 +68,8 @@ Go isn’t just a game — it’s a mental workout. Playing Go improves memory, 
 </details>
 
 ## Go in Popular Media
-<hr>
+
+---
 
 ### Hikaru no Go
 
@@ -92,7 +95,7 @@ In 2016, AlphaGo, an AI developed by Google’s DeepMind, defeated 18-time World
 Go has appeared in numerous films and series, such as:
 - <a href="https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film)" target="_blank" rel="nofollow noopener noreferrer">A Beautiful Mind</a>
 - <a href="https://en.wikipedia.org/wiki/Tron:_Legacy" target="_blank" rel="nofollow noopener noreferrer">Tron: Legacy</a>
-- <a href="https://en.wikipedia.org/wiki/The_Glory_(TV_series)" target="_blank" rel="nofollow noopener noreferrer">The Glory (Korean TV Series)</a>,
+- <a href="https://en.wikipedia.org/wiki/The_Glory_(TV_series)" target="_blank" rel="nofollow noopener noreferrer">The Glory (Korean TV Series)</a>
 - <a href="https://en.wikipedia.org/wiki/Knives_Out" target="_blank" rel="nofollow noopener noreferrer">Knives Out</a>
 - <a href="https://www.youtube.com/playlist?list=PLIPiKkS-FpK-AgFy-U8nHgQJfEMvPnn3T" target="_blank" rel="nofollow noopener noreferrer">Go Into Your Heart</a>
 - <a href="https://en.wikipedia.org/wiki/The_Divine_Move" target="_blank" rel="nofollow noopener noreferrer">The Divine Move 1 & 2</a>
@@ -101,7 +104,7 @@ For more, check these curated lists:
 - On <a href="https://senseis.xmp.net" target="_blank" rel="nofollow noopener noreferrer">Senseis</a> site: <a href="https://senseis.xmp.net/?Movies"  target="_blank" rel="nofollow noopener noreferrer">Movies</a>, <a href="https://senseis.xmp.net/?Television" target="_blank" rel="nofollow noopener noreferrer">TV Shows</a>, <a href="https://senseis.xmp.net/?AnimeAndGraphicArts" target="_blank" rel="nofollow noopener noreferrer">Animation & Comics</a>
 - On <a href="https://www.britgo.org/" target="_blank" rel="nofollow noopener noreferrer">BritGo</a>'s Site: <a href="https://www.britgo.org/filmography"  target="_blank" rel="nofollow noopener noreferrer">Filmography</a>, <a href="https://www.britgo.org/general/manga" target="_blank" rel="nofollow noopener noreferrer">Manga/Anime</a>,
 <a href="https://www.britgo.org/general/novels.html" target="_blank" rel="nofollow noopener noreferrer">Novels</a>
-- List of Movies on <a href="https://gomagic.org/go-movies/" target="_blank" rel="nofollow noopener noreferrer">Go Magic.</a>
+- List of Movies on <a href="https://gomagic.org/go-movies/" target="_blank" rel="nofollow noopener noreferrer">GoMagic.</a>
 
 > I’ve also seen Weiqi/Baduk References in 100+ Manhuas/Manhwas I’ve read.
 {: .prompt-info}
@@ -110,17 +113,20 @@ For more, check these curated lists:
 {: .prompt-tip}
 
 ## Ready to Learn?
-<hr>
+
+---
 
 <a class="journey" href="/posts/How-to-use-Roadmap/">Start Your Journey</a>
 
 ## Love Wikis? Dive Deeper
-<hr>
+
+---
 
 - Explore the dedicated Go wiki : <a href="https://senseis.xmp.net/?StartingPoints" target="_blank" rel="nofollow noopener noreferrer"> Sensei’s Library </a>
 - Check out <a href="https://en.wikipedia.org/wiki/Go_(game)" target="_blank" rel="nofollow noopener noreferrer"> Wikipedia’s</a> page.
 
 ## Want to Teach Kids?
-<hr>
+
+---
 
 Introduce young learners to Go with fun resources like <a href="https://github.com/sorianom/kids-go-books" target="_blank" rel="nofollow noopener noreferrer"> My First Book of Go Exercises </a> by Leandro Soriano Marcolino.

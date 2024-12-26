@@ -7,10 +7,6 @@ pin: true
 date: 1700-01-02 00:00:00 +0530
 ---
 
-<!-- about snippet -->
-
-<hr>
-
 <div style="text-align: center">
   <div style="font-size: 36px">
     Welcome, I'm <a href="https://soumyak4.in/Experiences" style="color: #FF5733;"> Soumya</a> <br>
@@ -20,6 +16,7 @@ date: 1700-01-02 00:00:00 +0530
   </u>
 </div>
 <hr>
+
 <h5 style="text-align: center">
 I created this Roadmap back in 2021, drawing from my journey of becoming a Dan Level Go Player. <br>
 With just one year of self-study and free online resources, I achieved this milestone. <br>
@@ -27,8 +24,10 @@ This roadmap is here to guide you on your own journey. <br>
 <b>And as we always say before starting our games, Good Luck, Have Fun!!</b>
 </h5>  
 <hr>
+
 ## Using the [Roadmap](/roadmap) directly.
-<hr>
+
+---
 
 > <u>Your Primary Guide to Mastery</u>
 > 
@@ -40,7 +39,8 @@ This roadmap is here to guide you on your own journey. <br>
 This roadmap is the core of your learning journey. Everything else on the site, as detailed below, is designed to complement it.
 
 ## Exploring [Categories](/categories)
-<hr>
+
+---
 
 > **Think of Categories as your structured menu of topics.**
 > 
@@ -53,17 +53,18 @@ This roadmap is the core of your learning journey. Everything else on the site, 
 If you prefer exploring by topic or focusing on specific areas of improvement, this section is perfect for you.
 
 ## Utilizing [Tags](/tags)
-<hr>
+
+---
 
 **Tags function just like hashtags on social media.**<br>
 > They allow you to quickly filter and locate content by topic or keyword.
 > Use the search feature for even easier navigation.
 {: .prompt-tip}
 
-<hr>
+---
 
-> P. S. This roadmap mostly reflects my personal perspective and experience. 
-> If you have suggestions or spot any broken links, feel free to <a href='https://t.me/SoumyaK4/' target="_blank">reach out to me.</a>
+> This roadmap mostly reflects my personal perspective and experience. 
+> If you have suggestions, spot any broken links, or want credit for anything on this website, feel free to <a href='https://t.me/SoumyaK4/' target="_blank">reach out to me.</a>
 {: .prompt-danger}
 
 <hr>
