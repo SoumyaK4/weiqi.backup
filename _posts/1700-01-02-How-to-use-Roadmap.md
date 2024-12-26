@@ -63,6 +63,9 @@ If you prefer exploring by topic or focusing on specific areas of improvement, t
 
 ---
 
+> **Consider Installing the Roadmap for faster access**
+{: .prompt-info}
+
 > This roadmap mostly reflects my personal perspective and experience. 
 > If you have suggestions, spot any broken links, or want credit for anything on this website, feel free to <a href='https://t.me/SoumyaK4/' target="_blank">reach out to me.</a>
 {: .prompt-danger}

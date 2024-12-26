@@ -1,5 +1,5 @@
 ---
-title: Mastering Go for Complete Beginners - Your 25 Kyu Roadmap
+title: Your 25 Kyu Roadmap - Mastering Go for Complete Beginners
 description: A step-by-step guide for complete beginners to learn the rules, etiquette, and strategies of Go. Achieve 25 Kyu with ease!
 categories: [DDK Menu]
 tags: [go game, beginner guide, rules, clossi approach, etiquette, puzzles, 9x9 board]
@@ -58,4 +58,5 @@ After completing the steps above, it's time to play!
   
 ---
  
-Now you’re well on your way to becoming a confident Go player. Remember, consistency and enjoyment are key. Embrace the process, Good Luck, Have Fun!
+Now you’re well on your way to becoming a confident Go player. Remember, consistency and enjoyment are key. Embrace the process, 
+Good Luck, Have Fun!
