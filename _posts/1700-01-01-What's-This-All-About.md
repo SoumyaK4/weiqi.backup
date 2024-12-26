@@ -1,6 +1,6 @@
 ---
 title: Why All the Buzz About Go?
-description: Discover the timeless appeal of the Surrounding Game, also known as Go (Igo/Baduk/Weiqi).
+description: Discover the timeless appeal of the Surrounding Game, also known as Go (Igo/Baduk/Weiqi) in 2025.
 categories: [The Game's Overview]
 tags: [baduk roadmap, weiqi roadmap, learn to play go, go game tutorial, the surrounding game]
 pin: true
