@@ -151,5 +151,5 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 34. <a href="https://www.youtube.com/@gowithfanaro" target="_blank" rel="nofollow noopener noreferrer">Go with Philippe Fanaro</a>
 
 
-> **Check this** <a href="https://online-go.com/docs/other-go-resources" target="_blank" rel="nofollow noopener noreferrer">Resources Page by Online-Go.com</a>
+> **Also Check this** <a href="https://online-go.com/docs/other-go-resources" target="_blank" rel="nofollow noopener noreferrer">Resources Page by Online-Go.com</a>
 {: .prompt-info}
