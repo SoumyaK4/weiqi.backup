@@ -30,7 +30,7 @@ permalink: /acknowledgement/
 
 1. Other Images collected from <a href="https://www.pinterest.com/" target="_blank" rel="nofollow noopener noreferrer">Pinterest</a>
 
-## People I consider my Teachers Even though I never took a direct class with them( in Chronological Order)
+## People I consider my Teachers Even if I never got a direct lesson them(in Chronological Order)
 <hr>
 
 1. <a href="https://shawnsgogroup.com/" target="_blank" rel="nofollow noopener noreferrer">Shawn Ray(Clossius) 4D</a>
@@ -40,9 +40,6 @@ permalink: /acknowledgement/
 5. <a href="https://www.youtube.com/user/YungusengDojang/" target="_blank" rel="nofollow noopener noreferrer">Hwang In-Seong 8D</a>
 6. <a href="https://www.youtube.com/channel/UCA-ydBDPv0iYxcj5rTWDPDg" target="_blank" rel="nofollow noopener noreferrer">Cho Yeonwoo 2P, Youngsun Yoon 8P</a>
 7. <a href="https://www.bibabaduk.online/about-us/" target="_blank" rel="nofollow noopener noreferrer">Kim Seung-jun (Blackie) 9P, Kőszegi Diána 1P</a>
-
-
-
 
 ## Go Platforms - most important Platforms that fueled my studies.
 <hr>
