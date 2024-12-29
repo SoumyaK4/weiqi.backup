@@ -4,7 +4,7 @@ description: A comprehensive guide to navigating this website and mastering the 
 categories: [Introduction, How to Use the Roadmap]
 tags: [baduk roadmap, weiqi roadmap, learn to play go, go game tutorial, learn go]
 pin: true
-date: 1700-01-02 00:00:00 +0530
+date: 2024-12-30 00:00:00 +0530
 ---
 
 <div style="font-size: 1.5em">

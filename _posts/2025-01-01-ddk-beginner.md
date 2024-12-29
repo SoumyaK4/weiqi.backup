@@ -3,7 +3,7 @@ title: Your 25 Kyu Roadmap - Mastering Go for Complete Beginners
 description: A step-by-step guide for complete beginners to learn the rules, etiquette, and strategies of Go. Achieve 25 Kyu with ease!
 categories: [DDK Menu]
 tags: [go rules, beginner guide, rules, learn go, etiquette, puzzles, go game tutorial, 9x9]
-date: 2021-01-15 00:00:00 +0530
+date: 2025-01-01 00:00:00 +0530
 ---
 
 > **Recommended Completion Time:** 2 Weeks  

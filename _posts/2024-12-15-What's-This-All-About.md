@@ -4,7 +4,7 @@ description: Discover the timeless appeal of the Surrounding Game, also known as
 categories: [Introduction, What is Go]
 tags: [what is go, learn go game, learn to play go, go game tutorial, learn go]
 pin: true
-date: 1700-01-01 00:00:00 +0530
+date: 2024-12-15 00:00:00 +0530
 image: 
  path: /assets/img/posts/goban1.jpg
  lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAx
