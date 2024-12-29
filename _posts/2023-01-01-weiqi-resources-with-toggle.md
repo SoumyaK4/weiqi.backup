@@ -1,7 +1,6 @@
 ---
 title: Weiqi / Baduk Online Resources 2025
 description: A list of free online resources for the Game of Go / Baduk / Weiqi
-pin: true
 categories: [The Online Resources]
 tags: [resources, software, server, community]
 date: 2023-01-01 00:00:00 +0530
@@ -19,30 +18,30 @@ published: false
 2. <a href="https://www.youtube.com/@simplebaduk/" target="_blank" rel="nofollow noopener noreferrer">Simple Baduk</a> - Simple Lectures
 3. <a href="https://www.youtube.com/channel/UCMp-4uv1jfVa0dXkZv3qQYA" target="_blank" rel="nofollow noopener noreferrer">NYIG</a> - New York Institute of
 Go
-4. <a href="https://www.youtube.com/@BadukScholars" target="_blank" rel="nofollow noopener noreferrer">Baduk Scholars</a> - Massechusetts Go Federation
+1. <a href="https://www.youtube.com/@BadukScholars" target="_blank" rel="nofollow noopener noreferrer">Baduk Scholars</a> - Massechusetts Go Federation
 Lectures
-5. <a href="https://www.youtube.com/user/dwyrin" target="_blank" rel="nofollow noopener noreferrer">Dwyrin YouTube</a> / <a href="https://www.twitch.tv/battsgo" target="_blank" rel="nofollow noopener noreferrer">BattsGo Twitch</a> - Josh 7Dan's Lectures
-6. <a href="https://www.youtube.com/user/YungusengDojang/" target="_blank" rel="nofollow noopener noreferrer">Yunguseng Dojang</a> - Online Go Academy
-7. Daniel ML <a href="https://www.youtube.com/user/danielml01/" target="_blank" rel="nofollow noopener noreferrer">YouTube</a> & <a href="https://www.twitch.tv/danielml001" target="_blank" rel="nofollow noopener noreferrer">Twitch</a>
-8. BenKyo <a href="https://www.youtube.com/channel/UCsH0N8Hc4e4AXTnZt8Hg6fQ/" target="_blank" rel="nofollow noopener noreferrer">YouTube</a> & <a href="https://www.twitch.tv/benkyobaduk" target="_blank" rel="nofollow noopener noreferrer">Twitch</a>
-9. <a href="https://www.youtube.com/@aigpindia" target="_blank" rel="nofollow noopener noreferrer">AIGP India</a>
-10.  <a href="https://www.youtube.com/channel/UCyCA2PZzqsFlQifmSmWqe-w/" target="_blank" rel="nofollow noopener noreferrer">Yoonyoung Kim</a> - 8Dan Pro Player's Lectures
-11.  <a href="https://www.youtube.com/channel/UCRJyagla1B5cxIfR4i2LdgA" target="_blank" rel="nofollow noopener noreferrer">Michael Redmond's Go TV</a> -
+1. <a href="https://www.youtube.com/user/dwyrin" target="_blank" rel="nofollow noopener noreferrer">Dwyrin YouTube</a> / <a href="https://www.twitch.tv/battsgo" target="_blank" rel="nofollow noopener noreferrer">BattsGo Twitch</a> - Josh 7Dan's Lectures
+2. <a href="https://www.youtube.com/user/YungusengDojang/" target="_blank" rel="nofollow noopener noreferrer">Yunguseng Dojang</a> - Online Go Academy
+3. Daniel ML <a href="https://www.youtube.com/user/danielml01/" target="_blank" rel="nofollow noopener noreferrer">YouTube</a> & <a href="https://www.twitch.tv/danielml001" target="_blank" rel="nofollow noopener noreferrer">Twitch</a>
+4. BenKyo <a href="https://www.youtube.com/channel/UCsH0N8Hc4e4AXTnZt8Hg6fQ/" target="_blank" rel="nofollow noopener noreferrer">YouTube</a> & <a href="https://www.twitch.tv/benkyobaduk" target="_blank" rel="nofollow noopener noreferrer">Twitch</a>
+5. <a href="https://www.youtube.com/@aigpindia" target="_blank" rel="nofollow noopener noreferrer">AIGP India</a>
+6.   <a href="https://www.youtube.com/channel/UCyCA2PZzqsFlQifmSmWqe-w/" target="_blank" rel="nofollow noopener noreferrer">Yoonyoung Kim</a> - 8Dan Pro Player's Lectures
+7.   <a href="https://www.youtube.com/channel/UCRJyagla1B5cxIfR4i2LdgA" target="_blank" rel="nofollow noopener noreferrer">Michael Redmond's Go TV</a> -
 9Dan Pro Player's Lectures
-12.  <a href="https://www.youtube.com/user/nicksibicky" target="_blank" rel="nofollow noopener noreferrer">Nick Sibicky</a>
-13.  <a href="https://www.youtube.com/user/USGOWeb" target="_blank" rel="nofollow noopener noreferrer">AGA</a> - American Go Association
-14.  <a href="https://www.youtube.com/channel/UCA-ydBDPv0iYxcj5rTWDPDg" target="_blank" rel="nofollow noopener noreferrer">Awesome Baduk</a> - Online School
+1.   <a href="https://www.youtube.com/user/nicksibicky" target="_blank" rel="nofollow noopener noreferrer">Nick Sibicky</a>
+2.   <a href="https://www.youtube.com/user/USGOWeb" target="_blank" rel="nofollow noopener noreferrer">AGA</a> - American Go Association
+3.   <a href="https://www.youtube.com/channel/UCA-ydBDPv0iYxcj5rTWDPDg" target="_blank" rel="nofollow noopener noreferrer">Awesome Baduk</a> - Online School
 by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
-15.  <a href="https://www.youtube.com/@GoMagic" target="_blank" rel="nofollow noopener noreferrer">GoMagic</a> - A Modern Platform to Learn Go
-16.  <a href="https://www.youtube.com/@BadukDoctor" target="_blank" rel="nofollow noopener noreferrer">BadukDoctor</a>
-17.  <a href="https://www.youtube.com/@baduk_tv" target="_blank" rel="nofollow noopener noreferrer">Baduk TV</a> - Korean Go Channel
-18.  <a href="https://www.twitch.tv/telegraphgo" target="_blank" rel="nofollow noopener noreferrer">Telegraph Go</a>
-19.  <a href="https://www.twitch.tv/strugglebusgo" target="_blank" rel="nofollow noopener noreferrer">Struggle Bus Go</a>
-20.  <a href="https://www.youtube.com/@wuluweiqi/" target="_blank" rel="nofollow noopener noreferrer">WuLu Weiqi</a>
-21.  <a href="https://www.youtube.com/@TakumiGoAcademy" target="_blank" rel="nofollow noopener noreferrer">Takumi Go Academy</a>
-22.  <a href="https://www.youtube.com/@TritonBaduk" target="_blank" rel="nofollow noopener noreferrer">Triton Baduk</a>
-23.  <a href="https://www.youtube.com/c/jianqiuchen/featured" target="_blank" rel="nofollow noopener noreferrer">Jianqiu Chen</a>
-24. <a href="https://youtube.com/@londongocentre" target="_blank" rel="nofollow noopener noreferrer">London Go Centre</a>
+1.   <a href="https://www.youtube.com/@GoMagic" target="_blank" rel="nofollow noopener noreferrer">GoMagic</a> - A Modern Platform to Learn Go
+2.   <a href="https://www.youtube.com/@BadukDoctor" target="_blank" rel="nofollow noopener noreferrer">BadukDoctor</a>
+3.   <a href="https://www.youtube.com/@baduk_tv" target="_blank" rel="nofollow noopener noreferrer">Baduk TV</a> - Korean Go Channel
+4.   <a href="https://www.twitch.tv/telegraphgo" target="_blank" rel="nofollow noopener noreferrer">Telegraph Go</a>
+5.   <a href="https://www.twitch.tv/strugglebusgo" target="_blank" rel="nofollow noopener noreferrer">Struggle Bus Go</a>
+6.   <a href="https://www.youtube.com/@wuluweiqi/" target="_blank" rel="nofollow noopener noreferrer">WuLu Weiqi</a>
+7.   <a href="https://www.youtube.com/@TakumiGoAcademy" target="_blank" rel="nofollow noopener noreferrer">Takumi Go Academy</a>
+8.   <a href="https://www.youtube.com/@TritonBaduk" target="_blank" rel="nofollow noopener noreferrer">Triton Baduk</a>
+9.   <a href="https://www.youtube.com/c/jianqiuchen/featured" target="_blank" rel="nofollow noopener noreferrer">Jianqiu Chen</a>
+10. <a href="https://youtube.com/@londongocentre" target="_blank" rel="nofollow noopener noreferrer">London Go Centre</a>
 25. <a href="https://www.youtube.com/@badukmovies" target="_blank" rel="nofollow noopener noreferrer">Baduk Movies</a>
 26. <a href="https://www.youtube.com/@Weiqimaster/playlists" target="_blank" rel="nofollow noopener noreferrer">Weiqi Master</a>
 27. <a href="https://www.youtube.com/@InGoWeLoved/playlists" target="_blank" rel="nofollow noopener noreferrer">In Go We Loved</a>

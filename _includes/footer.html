@@ -12,9 +12,9 @@
     <time>2021 - {{ 'now' | date: '%Y' }}</time>
 
     {% if site.social.links %}
-      <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+      <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a> |
     {% else %}
-      <em class="fst-normal">{{ site.social.name }}</em>.
+      <em class="fst-normal">{{ site.social.name }}</em> |
     {% endif %}
 
     {% if site.data.locales[include.lang].copyright.brief %}
@@ -32,7 +32,7 @@
     <span
     data-bs-toggle="tooltip"
     data-bs-placement="top"
-    title="Love you all <3"
+    title="Roadmap v3.9.6"
     >
     <a href="/acknowledgement">Acknowledgements</a>
     </span>

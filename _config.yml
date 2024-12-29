@@ -16,7 +16,7 @@ timezone: Asia/Calcutta
 
 title: WEIQI Roadmap # the main title
 
-tagline: Learn to Play The Surrounding Game # it will display as the subtitle
+tagline: Learn to Play Go Game # it will display as the subtitle
 
 description: >-
   Learn the game of Go (Baduk/Weiqi) with a comprehensive roadmap. Find tutorials, guides, and resources to master the game from beginner to expert.
@@ -32,6 +32,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://soumyak4.in/
+
+future: true
 
 # Site Verification Settings
 webmaster_verifications:

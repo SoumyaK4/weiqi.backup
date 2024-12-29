@@ -2,7 +2,7 @@
 title: Your 25 Kyu Roadmap - Mastering Go for Complete Beginners
 description: A step-by-step guide for complete beginners to learn the rules, etiquette, and strategies of Go. Achieve 25 Kyu with ease!
 categories: [DDK Menu]
-tags: [go game, beginner guide, rules, clossi approach, etiquette, puzzles, 9x9]
+tags: [go rules, beginner guide, rules, learn go, etiquette, puzzles, go game tutorial, 9x9]
 date: 2021-01-15 00:00:00 +0530
 ---
 
@@ -52,9 +52,10 @@ Develop your tactical skills by solving puzzles:
 ---
 
 After completing the steps above, it's time to play! 
-1. Play **25 games on a 9x9 board** with real players on <a href="https://online-go.com/" target="_blank" rel="nofollow noopener noreferrer">OGS</a> 
+1. **Play at-least 50 games** on a 9x9 board with real players, on <a href="https://online-go.com/" target="_blank" rel="nofollow noopener noreferrer">OGS</a> 
    - Focus on applying what you've learned in each game.  
    - Analyze your games to identify patterns and mistakes. 
+   - Try not to play more than 5 ranked games each week.
   
 ---
  

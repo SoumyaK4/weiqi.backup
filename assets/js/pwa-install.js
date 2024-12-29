@@ -1,11 +1,11 @@
 document.addEventListener("DOMContentLoaded", () => {
-    let deferredPrompt; // Store the install prompt event
-    let popupDisplayed = false; // Ensure the popup shows only once
+  let deferredPrompt; // Store the install prompt event
+  let popupDisplayed = false; // Ensure the popup shows only once
 
-    // Create the popup dynamically
-    const popup = document.createElement("div");
-    popup.id = "install-pwa-popup";
-    popup.innerHTML = `
+  // Create the popup dynamically
+  const popup = document.createElement("div");
+  popup.id = "install-pwa-popup";
+  popup.innerHTML = `
       <div id="popup-content">
         <p id="popup-message">Use web-app for a better experience!</p>
         <div id="popup-buttons">
@@ -14,16 +14,16 @@ document.addEventListener("DOMContentLoaded", () => {
         </div>
       </div>
     `;
-    document.body.appendChild(popup);
+  document.body.appendChild(popup);
 
-    // Style the popup
-    const popupStyles = `
+  // Style the popup
+  const popupStyles = `
     #install-pwa-popup {
       position: fixed;
-      top: 90px;
+      top: 50px;
       left: 50%;
       transform: translate(-50%, -50%); /* Center the popup */
-      background: #b7b7c710;
+      background: #b7b7c720;
       color: white;
       width: 100vw;
       padding: 10px; /* Minimal padding */
@@ -71,48 +71,48 @@ document.addEventListener("DOMContentLoaded", () => {
     }
     
     `;
-    const styleSheet = document.createElement("style");
-    // styleSheet.type = "text/css";
-    styleSheet.innerText = popupStyles;
-    document.head.appendChild(styleSheet);
+  const styleSheet = document.createElement("style");
+  // styleSheet.type = "text/css";
+  styleSheet.innerText = popupStyles;
+  document.head.appendChild(styleSheet);
 
-    // Listen for the beforeinstallprompt event
-    window.addEventListener("beforeinstallprompt", (e) => {
-        e.preventDefault();
-        deferredPrompt = e;
+  // Listen for the beforeinstallprompt event
+  window.addEventListener("beforeinstallprompt", (e) => {
+    e.preventDefault();
+    deferredPrompt = e;
 
-        // Show the popup after 4 seconds
-        setTimeout(() => {
-            if (!popupDisplayed && !window.matchMedia("(display-mode: standalone)").matches) {
-                popup.classList.add("show"); // Show the popup by sliding it down
-                popupDisplayed = true;
-            }
-        }, 4000); // 4-second delay
-    });
+    // Show the popup after 4 seconds
+    setTimeout(() => {
+      if (!popupDisplayed && !window.matchMedia("(display-mode: standalone)").matches) {
+        popup.classList.add("show"); // Show the popup by sliding it down
+        popupDisplayed = true;
+      }
+    }, 4000); // 4-second delay
+  });
 
-    // Handle the Install button click
-    document.getElementById("install-pwa-yes").addEventListener("click", async () => {
-        if (deferredPrompt) {
-            deferredPrompt.prompt();
-            const choiceResult = await deferredPrompt.userChoice;
-            if (choiceResult.outcome === "accepted") {
-                console.log("User accepted the install prompt");
-            } else {
-                console.log("User dismissed the install prompt");
-            }
-            deferredPrompt = null; // Clear the event
-        }
-        popup.classList.remove("show"); // Hide the popup
-    });
+  // Handle the Install button click
+  document.getElementById("install-pwa-yes").addEventListener("click", async () => {
+    if (deferredPrompt) {
+      deferredPrompt.prompt();
+      const choiceResult = await deferredPrompt.userChoice;
+      if (choiceResult.outcome === "accepted") {
+        console.log("User accepted the install prompt");
+      } else {
+        console.log("User dismissed the install prompt");
+      }
+      deferredPrompt = null; // Clear the event
+    }
+    popup.classList.remove("show"); // Hide the popup
+  });
 
-    // Handle the Close button click
-    document.getElementById("install-pwa-no").addEventListener("click", () => {
-        popup.classList.remove("show"); // Hide the popup
-    });
+  // Handle the Close button click
+  document.getElementById("install-pwa-no").addEventListener("click", () => {
+    popup.classList.remove("show"); // Hide the popup
+  });
 
-    // Hide popup if app is installed
-    window.addEventListener("appinstalled", () => {
-        console.log("PWA installed");
-        popup.classList.remove("show");
-    });
+  // Hide popup if app is installed
+  window.addEventListener("appinstalled", () => {
+    console.log("PWA installed");
+    popup.classList.remove("show");
+  });
 });

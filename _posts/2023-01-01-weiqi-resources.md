@@ -3,11 +3,11 @@ title: Weiqi / Baduk Online Resources 2025
 description: A list of free online resources for the Game of Go / Baduk / Weiqi
 pin: true
 categories: [The Online Resources]
-tags: [resources, software, server, community]
+tags: [resources, software, server, community, lectures, ai go, tools, art]
 date: 2023-01-01 00:00:00 +0530
 ---
 
-> This page is **Work in Progress** and will be split into multiple pages soon....
+> This page is **Pretty Long.** Use the **Table of Contents** to jump between sections....
 {: .prompt-tip}
 
 ## AI & Tools
@@ -79,8 +79,9 @@ date: 2023-01-01 00:00:00 +0530
 16. <a href="https://godb.shogidb2.com/en/" target="_blank" rel="nofollow noopener noreferrer">Go DB</a>
 17. <a href="https://goratings.org/" target="_blank" rel="nofollow noopener noreferrer">Go Ratings</a>
 18. <a href="https://db.u-go.net/" target="_blank" rel="nofollow noopener noreferrer">Go Players DataBase</a>
+
 <!-- 19. <a href="https://www.dropbox.com/scl/fo/55n3y0yblmad9kruj8gk0/ALJB9LS9AaG3_TBhdubljWk?rlkey=tpncnsc8zh285fsjlhshauvgj&st=x0swakor&dl=0" target="_blank" rel="nofollow noopener noreferrer">Collection of Books 1</a>
-20. <a href="https://drive.google.com/drive/folders/1hjD17M3D2JHLQv3Cd_-Pga8M7K2AN0Jg?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">Collection of Books 2</a> -->
+1.  <a href="https://drive.google.com/drive/folders/1hjD17M3D2JHLQv3Cd_-Pga8M7K2AN0Jg?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">Collection of Books 2</a> -->
 
 ## Where to Play
 
@@ -151,5 +152,5 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 34. <a href="https://www.youtube.com/@gowithfanaro" target="_blank" rel="nofollow noopener noreferrer">Go with Philippe Fanaro</a>
 
 
-> **Also Check this** <a href="https://online-go.com/docs/other-go-resources" target="_blank" rel="nofollow noopener noreferrer">Resources Page by Online-Go.com</a>
+> **Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank" rel="nofollow noopener noreferrer">Resources Page by Online-Go.com</a> for non-English resources.**
 {: .prompt-info}
