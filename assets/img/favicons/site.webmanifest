@@ -43,25 +43,32 @@ layout: compress
       "label": "Dashboard view with blog and TOC"
     },
     {
-      "src": "blog.png",
-      "sizes": "411x670",
+      "src": "Home-m.png",
+      "sizes": "1080x2400",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Blog Screen Mobile View"
-    },
-    {
-      "src": "toc.png",
-      "sizes": "411x670",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Blog screen showing toc mobile view"
+      "label": "Home Mobile View"
     },
     {
       "src": "dash-m.png",
-      "sizes": "411x670",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Menu Mobile View"
+    },
+    {
+      "src": "roadmap-m.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Roadmap mobile view"
+    },
+    {
+      "src": "toc-m.png",
+      "sizes": "1080x2400",
       "type": "image/png",
       "platform": "android",
-      "label": "visible on android"
+      "label": "Blog screen showing toc mobile view"
     }],
     "shortcuts": [
     {
@@ -77,9 +84,9 @@ layout: compress
       ]
     },
     {
-      "name": "Tools",
-      "short_name": "Tools",
-      "url": "{{ '/tools' | relative_url }}",
+      "name": "Roadmap",
+      "short_name": "Roadmap",
+      "url": "{{ '/roadmap' | relative_url }}",
       "icons": [
         {
           "src": "{{ favicon_path }}/android-chrome-192x192.png",
