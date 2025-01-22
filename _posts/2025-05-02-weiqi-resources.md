@@ -70,7 +70,7 @@ date: 2025-05-02 00:00:00 +0530
 6. <a href="https://gobase.org/" target="_blank" rel="nofollow noopener noreferrer">Go Base</a>
 7. <a href="https://play.google.com/store/apps/details?id=pl.happydroid.goess&hl=en&gl=US" target="_blank" rel="nofollow noopener noreferrer">Go Dojo</a>
 8. <a href="https://fuseki.info/" target="_blank" rel="nofollow noopener noreferrer">Fuseki Study/Analysis</a>: There's also specefic ones for <a href="https://tygem.fuseki.info/" target="_blank" rel="nofollow noopener noreferrer">Tygem</a> & <a href="https://kgs.fuseki.info/" target="_blank" rel="nofollow noopener noreferrer">KGS</a>.
-9. <a href="https://www.1200igosharing.blog/en/blog" target="_blank" rel="nofollow noopener noreferrer"> Takumi's Blog</a>
+9. <a href="https://en.1200igo.com/" target="_blank" rel="nofollow noopener noreferrer"> Takumi's Free Resources</a>
 10. <a href="https://tesuji.uk/index1.php" target="_blank" rel="nofollow noopener noreferrer">Tesuji</a>
 11. <a href="https://haengma.uk/index1.php" target="_blank" rel="nofollow noopener noreferrer">Haengma</a>
 12. <a href="https://letsplaygo.com/" target="_blank" rel="nofollow noopener noreferrer">Lets Play Go</a>
