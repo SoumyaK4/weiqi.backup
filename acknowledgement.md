@@ -45,6 +45,7 @@ permalink: /acknowledgement/
 <hr>
 
 1. <a href="https://gomagic.org/" target="_blank">Go Magic</a> - A Modern Platform for Learning the Game
+   - If you want to try GoMagic use Code **COLCATAGC** to get 50% off on first purchase.
 2. <a href="https://senseis.xmp.net/" target="_blank" rel="nofollow noopener noreferrer">Sensei's XMP</a> - A Special Wiki for the Game
 3. <a href="https://online-go.com/" target="_blank" rel="nofollow noopener noreferrer">Online Go Server</a> - Most Popular English Playing Platform
 4. <a href="https://yunguseng.com/" target="_blank" rel="nofollow noopener noreferrer">Yunguseng Dojang</a> - Online Go School of My Favourite Teacher In-Seong Hwang(8d)
