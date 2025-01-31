@@ -41,13 +41,14 @@ date: 2025-05-02 00:00:00 +0530
 27. <a href="https://www.crazy-sensei.com/?lang=en&location=kifu_snap" target="_blank" rel="nofollow noopener noreferrer">Kifu Snap</a>
 28. <a href="https://play.google.com/store/apps/details?id=net.kir.baduk_ai" target="_blank" rel="nofollow noopener noreferrer">Baduk AI Android</a>
 29. <a href="https://www.smartgo.com/" target="_blank" rel="nofollow noopener noreferrer">Smart GO</a>: Mostly paid and Apple/iOS/MacOS only. But included as I really loved the free stuff in there.
+30. <a href="https://sgf2video.netlify.app/" target="_blank" rel="nofollow noopener noreferrer">SGF to Video</a>
 
 ## Tsumegos
 
 1. <a href="https://tsumego-hero.com/" target="_blank" rel="nofollow noopener noreferrer">Tsumego Hero</a>
 2. <a href="https://gomagic.org/go-problems/" target="_blank" rel="nofollow noopener noreferrer">GoMagic Skill Tree</a>
 3. Tsumego Pro - <a href="https://play.google.com/store/apps/details?id=net.lrstudios.android.tsumego_workshop&hl=en&gl=US" target="_blank" rel="nofollow noopener noreferrer">Android</a>, <a href="https://apps.apple.com/us/app/tsumego-pro-go-problems/id892041876" target="_blank" rel="nofollow noopener noreferrer">iOS</a>
-4. <a href="https://play.google.com/store/apps/details?id=net.gowrite.hactarLite" target="_blank" rel="nofollow noopener noreferrer">Hactar Go Lite</a> - Now only for old users, <a href="https://blog.gowrite.net/hactar-go-in-google-play/" target="_blank" rel="nofollow noopener noreferrer">See Reason</a>. If you know me enough to trust me, <a href="https://t.me/SoumyaK4" target="_blank" rel="nofollow noopener noreferrer">'DM me to get the apk(I'll upload it here soon.)'</a>.
+4. <a href="https://play.google.com/store/apps/details?id=net.gowrite.hactarLite" target="_blank" rel="nofollow noopener noreferrer">Hactar Go Lite</a> - Now only for old users, <a href="https://blog.gowrite.net/hactar-go-in-google-play/" target="_blank" rel="nofollow noopener noreferrer">See Reason</a>. If you know me enough to trust me, <a href="https://t.me/SoumyaK4" target="_blank" rel="nofollow noopener noreferrer">'DM me to get the apk'</a>.
 5. <a href="https://tsumegodragon.com/home" target="_blank" rel="nofollow noopener noreferrer">Tsumego Dragon by Clossius</a>
 6. <a href="https://www.101weiqi.com/">101Weiqi</a> - Use the <a href="https://www.google.com/search?q=101weiqi+localizer&oq=101weiqi+loca&gs_lcrp=EgZjaHJvbWUqCggCEAAYgAQYogQyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIGCAQQRRg80gEINTQ3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank" rel="nofollow noopener noreferrer"> Browser Extension for Proper Translation</a>
 7. <a href="https://tsumego.tasuki.org/" target="_blank" rel="nofollow noopener noreferrer">PDF Tsumego Collection</a>
