@@ -152,6 +152,7 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 32. <a href="https://www.youtube.com/@herewegameofgo" target="_blank" rel="nofollow noopener noreferrer">Here We Go</a>
 33. <a href="https://youtube.com/@starpointbaduk" target="_blank" rel="nofollow noopener noreferrer">Star Point Baduk</a>
 34. <a href="https://www.youtube.com/@gowithfanaro" target="_blank" rel="nofollow noopener noreferrer">Go with Philippe Fanaro</a>
+35. <a href="https://www.youtube.com/@zchenmike/" target="_blank" rel="nofollow noopener noreferrer">Michael Chen 1P</a>
 
 
 > **Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank" rel="nofollow noopener noreferrer">Resources Page by Online-Go.com</a> for non-English resources.**
