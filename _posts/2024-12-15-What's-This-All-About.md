@@ -47,6 +47,8 @@ Go is about territory. Players use strategies like capture, isolation, and contr
 
 Go isn’t just a game — it’s a mental workout. Playing Go improves memory, focus, problem-solving, emotional resilience, and cognitive flexibility. It’s a timeless tool for sharpening the mind.
 
+You can check this [dedicated post](/posts/benefits) explaining why you should play go
+
 ### Recommended Resources to Learn the Benefits of Enjoying the Game of Go / Baduk / Weiqi
 
 - Watch <a href="https://youtu.be/wQuh9YI8rn0?si=IyLDYDlPhlmGkz2v" target="_blank" rel="nofollow noopener noreferrer">How the ancient game of Go is a guide to modern life</a> - Ted Talk by Silvia Lozeva
